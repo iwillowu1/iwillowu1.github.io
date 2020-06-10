@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{tjUo:function(e,n,t){"use strict";t.r(n);var o=t("g0WC"),r=t("ERkP"),a=t.n(r),c=t("bk/2"),s=t.n(c);t("OE7a");Object(o.setConfig)({reloadHooks:!1});const l=function(){return a.a.createElement("div",null,"test")};s.a.render(a.a.createElement(l,null),document.getElementById("root"))}},[["tjUo",1,2,3]]]);
